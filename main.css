@@ -7,7 +7,8 @@
 div{
     min-height: 100vh;
     color: #fff;
-    background-color: blue;
+    background-color:red;
     text-align: center;
     font-size: 3rem;
+    text-transform: uppercase;
 }
