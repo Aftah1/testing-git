@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    min-height: 100vh;
+    color: #fff;
+    background-color: blue;
+    text-align: center;
+    font-size: 3rem;
+}
